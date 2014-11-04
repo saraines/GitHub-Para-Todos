@@ -1,9 +1,16 @@
 # Modificame
-
+##Haciendo una prueba en GitHub
 Este es un primer texto para *modificar*, **cambiar** y jugar.
 
 > Es nuestro arenero personal
 
+
+>Agrego una imagen
+
+
+![](http://joedicastro.com/static/pictures/scaphandre.png)
+
+![beemo]"http://joedicastro.com/static/pictures/scaphandre.png"
 Pueden:
 
 - Borrarme
